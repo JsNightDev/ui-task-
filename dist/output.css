@@ -540,6 +540,18 @@ video {
   left: 20%;
 }
 
+.left-\[22\%\] {
+  left: 22%;
+}
+
+.left-\[26\%\] {
+  left: 26%;
+}
+
+.left-\[25\%\] {
+  left: 25%;
+}
+
 .mt-20 {
   margin-top: 5rem;
 }
@@ -574,6 +586,14 @@ video {
 
 .mt-\[400px\] {
   margin-top: 400px;
+}
+
+.mt-\[380px\] {
+  margin-top: 380px;
+}
+
+.mt-\[360px\] {
+  margin-top: 360px;
 }
 
 .flex {
